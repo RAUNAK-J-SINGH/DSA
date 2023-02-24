@@ -1,8 +1,8 @@
 import re
 
-p = "ajsdbatsjhdkjhodbat"
+p = "aaaaaaaaaa"
 # x = "bat"
 
-for m in re.finditer("bat",p):
-    print("yes")
-    print(m.start())
+for m in re.finditer("aa",p):
+    # print("yes")
+    print(m.start(),"\n")
