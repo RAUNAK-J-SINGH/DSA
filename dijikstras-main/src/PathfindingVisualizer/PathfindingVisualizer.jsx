@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import logo from 'C:/Users/suraj/Desktop/pathFinder/Pathfinding/src/PathfindingVisualizer/gfg-new-logo.png';
+// import logo from 'C:/Users/suraj/Desktop/pathFinder/Pathfinding/src/PathfindingVisualizer/gfg-new-logo.png';
 import Node from './Node/Node';
 import {dijkstra, getNodesInShortestPathOrder} from '../algorithms/dijkstra';
 
